@@ -12,3 +12,10 @@
         "Allowoffline": false
     }
 ]
+[
+    {
+        "device_id": "device12ziz",
+        "key": "key1235",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    }
